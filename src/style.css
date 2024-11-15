@@ -1,0 +1,21 @@
+.container_{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.number1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 10px;
+    
+}
+
+.number2{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border: 10px;
+}
